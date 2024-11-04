@@ -36,4 +36,6 @@ o	Implementing isolation levels and handling deadlocks.
 10.	Data Warehousing and OLAP:
 o	Designing and querying data warehouses.
 o	Using T-SQL for OLAP operations and working with cubes.
+11. Unit Testing
+o	Borowwing ideas from tSQLt and implementing it in a way so that it can be run as TSQL in AzureDB
 
