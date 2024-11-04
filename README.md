@@ -1,7 +1,7 @@
 # SQL-Use-Cases
 Important SQL use cases and examples
 
-Bases on my research I have identified the following main use case categories.
+Based on my research I have identified the following main use case categories.
 I will continuously implement examples for these use cases and check the sample code into this repository.
 
 As a senior T-SQL developer, you should be proficient in a variety of use cases that demonstrate advanced querying, optimization, and data manipulation skills. Here are some key use cases you should be able to implement:
